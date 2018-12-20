@@ -1,0 +1,20 @@
+.Life{
+    text-align: center;
+    color: white;
+    font-family: 'Major Mono Display', monospace;
+}
+
+header {
+    background-color: #00aaff;
+    padding:10px;
+    border-bottom: 3px solid black;
+}
+.ms839 {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+body {
+    margin: 0px;
+}
